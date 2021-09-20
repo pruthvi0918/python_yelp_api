@@ -1,0 +1,3 @@
+[YELP-API-INFO]
+url = https://api.yelp.com/v3/businesses/search
+api_key = 7SHHDwLbGhhS0ApZagStFx7o1ENgYNPVgCDJd3s7yINi8977N3DYY86KwgGp0JAeJVZFIV8BIG6FcHPN-OORG9mumgzgCDRNug9e1NS3NT_m7FxYrtEDOalWCI1HYXYx
